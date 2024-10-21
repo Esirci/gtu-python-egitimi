@@ -7,29 +7,29 @@
 ## WEEK 1
 ### Day1-Python 101
 1. [Day1.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day1.ipynb)
-2. [Day2.ipynb](https://colab.research.google.com/github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day2.ipynb)
+2. [Day2.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day2.ipynb)
 
 ### PS1-Python 101 & Solution
-1. [Session1-PS1.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS1.ipynb)
-2. [Session1-PS1_Solution.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS1_Solution.ipynb)
+1. [Session1-PS1.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS1.ipynb)
+2. [Session1-PS1_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS1_Solution.ipynb)
 
 ## WEEK 2
 ### Day3-
-1. [Day3.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Day3.ipynb)
+1. [Day3.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/notebooks/Day3.ipynb)
 
 ### PS2 Questions & Solutions
-1. [Session1-PS2.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS2.ipynb)
-2. [Session1-PS2_Solution.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS2_Solution.ipynb)
+1. [Session1-PS2.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS2.ipynb)
+2. [Session1-PS2_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS2_Solution.ipynb)
 
 
 ## WEEK 3
 ### Day5-
-1. [Day5.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Day5.ipynb)
-1. [Day5_attachs.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Day5_attachs.ipynb)
+1. [Day5.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day5.ipynb)
+1. [Day5_attachs.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day5_attachs.ipynb)
 
 ### PS3 Questions & Solutions
-1. [Session1-PS3.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS3.ipynb)
-2. [Session1-PS3_Solution.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS3_Solution.ipynb)
+1. [Session1-PS3.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS3.ipynb)
+2. [Session1-PS3_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS3_Solution.ipynb)
 
 
 ## Session2: for Mid Level 
