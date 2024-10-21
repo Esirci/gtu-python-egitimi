@@ -7,7 +7,7 @@
 ## WEEK 1
 ### Day1-Python 101
 1. [Day1.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day1.ipynb)
-2. [Day2.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Day2.ipynb)
+2. [Day2.ipynb](https://colab.research.google.com/github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day2.ipynb)
 
 ### PS1-Python 101 & Solution
 1. [Session1-PS1.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Session1-PS1.ipynb)
