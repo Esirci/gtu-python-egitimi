@@ -2,7 +2,8 @@
 
 
 ## Session1: for Beginner Level 
-
+ Google Colab Hakkında : https://research.google.com/colaboratory/intl/tr/faq.html
+ Temel Kavramları Tanıyalım : (https://github.com/Esirci/gtu-python-egitimi/tree/main/Introduction_CS_part1.pptx)
 
 ## WEEK 1
 ### Day1-Python 101
