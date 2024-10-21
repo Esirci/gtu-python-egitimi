@@ -15,7 +15,7 @@
 
 ## WEEK 2
 ### Day3-
-1. [Day3.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/notebooks/Day3.ipynb)
+1. [Day3.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day3.ipynb)
 2. [Day3_attachs.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Day3_attachs.ipynb)
 
 ### PS2 Questions & Solutions
