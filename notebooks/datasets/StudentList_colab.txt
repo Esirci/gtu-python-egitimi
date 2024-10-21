@@ -1,0 +1,13 @@
+101,Ali Veli,85
+102,Ayşe Fatma,55
+103,Ahmet Mehmet,75
+104,Zeynep Derya,10
+105,Fatih Selim,65
+106,Mehmet Ali,18
+107,Nur Ayşe,78
+108,Aliye Zeynep,13
+109,Hasan Hüseyin,70
+110,Emre Can,22
+111,Ahmet Kamil,96
+112,Gizem Nur,72
+113,Deniz Burak,14
