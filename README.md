@@ -11,7 +11,7 @@
 
 ### PS1-Python 101 & Solution
 1. [Session1-PS1.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS1.ipynb)
-2. [Session1-PS1_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS1_Solution.ipynb)
+2. [Session1-PS1_solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS1_solution.ipynb)
 
 ## WEEK 2
 ### Day3-
@@ -20,7 +20,7 @@
 
 ### PS2 Questions & Solutions
 1. [Session1-PS2.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS2.ipynb)
-2. [Session1-PS2_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS2_Solution.ipynb)
+2. [Session1-PS2_solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS2_solution.ipynb)
 
 
 ## WEEK 3
@@ -29,7 +29,7 @@
 
 ### PS3 Questions & Solutions
 1. [Session1-PS3.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS3.ipynb)
-2. [Session1-PS3_Solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS3_Solution.ipynb)
+2. [Session1-PS3_solution.ipynb](https://github.com/Esirci/gtu-python-egitimi/tree/main/notebooks/Session1-PS3_solution.ipynb)
 
 
 ## Session2: for Mid Level 
